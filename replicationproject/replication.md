@@ -67,8 +67,6 @@ This project is related to mine because it utilizes headphones and creates sound
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
-*For each of the assigned readings, answer the questions below.*
-
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
 *What I thought before: Before reading this I didn't put much thought into how ergonomic a door needs to be.* 
