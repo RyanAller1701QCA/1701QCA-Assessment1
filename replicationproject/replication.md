@@ -91,14 +91,13 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this I belived programming was harder and less achievable. I also thought I wasn't involved in technology as much as I am.* 
 
-*What I learned: Prototyping is important because more often than not if you enjoy the design it's likely other people will too. Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Prototypes are a key step in the development, allowing the designer to test how the solution will work and even show the solution to users for feedback. Also from a business standpoint more often than not if you enjoy the design it's likely consumers will too.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to know more about what the fundamentals of programming are and what important pieces of technology from this day and age were prototyped on and arduino.* 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+*How this relates to the project I am working on: Prototyping is very important in this project as it will help me fix any mistakes I come across, also it will help me with improvinmg on the project.* 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
