@@ -81,19 +81,19 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this I over looked most microinteractions and didn't realize how helpful they are.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Attention to detail is everything, microinteractions are a great example of that. It's the smaller things in design that make all the difference to the end product. Making tasks easier for the user in every way possible increases your chanses of that user to not only anjoy what they're doing but come back for more.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to know how many other microintergrations there are.*  
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This associate with my project because attention to detail helps improve functionality and usability.*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Prototyping is important because more often than not if you enjoy the design it's likely other people will too. Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
