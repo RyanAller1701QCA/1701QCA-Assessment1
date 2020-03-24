@@ -71,13 +71,13 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this I didn't put much thought into how ergonomic a door needs to be.* 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: After reading The Design of Everyday Things, I now understand that doors and everyday things CAN be designed poorly and how every little thing matters such as the direction a door handle faces or how no hadle is in some scenarios better.* 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to know more about what goes into the flow of an area. For example an airport and its terminals. How the furniture and people are placed to make the flow of the environment more efficient. Such as bording the passengers and how fast the line moves due to how efficent the staff and furniture placed.* 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This relates to the project i'm working on due to the fact that it involves human interaction. Making the project less complicated and removing all unneeded materials is important to improving the ease of use and functionality of the project.*   
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
