@@ -17,7 +17,7 @@ Stopwatch
 
 ![Image](Relatedproject1.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes a button to stop and start the counter.
 
 ### Related project 2 ###
 Snap the Dot
@@ -26,16 +26,16 @@ Snap the Dot
 
 ![Image](Relatedproject2.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes a button by making it a conrol for a game.
 
 ### Related project 3 ###
 Reaction Time
 
 (https://makecode.microbit.org/projects/reaction-time)
 
-![Image](missingimage.png)
+![Image](Relatedproject3jpg
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes human connection to complete an action.
 
 ### Related project 4 ###
 Love Meter
@@ -44,7 +44,7 @@ Love Meter
 
 ![Image](Relatedproject4.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes the push of a button to obtain the score.
 
 ### Related project 5 ###
 Smiley Buttons
@@ -53,16 +53,16 @@ Smiley Buttons
 
 ![Image](Relatedproject5.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes a button to output two different faces.
 
 ### Related project 6 ###
 Speakers with the Micro:bit
 
 (https://www.youtube.com/watch?v=cxfPNc4Wefo)
 
-![Image](missingimage.png)
+![Image](Relatedproject6jpg
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilizes headphones and creates sound
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
