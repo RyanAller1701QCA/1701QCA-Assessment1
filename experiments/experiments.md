@@ -8,14 +8,14 @@
 
 ### Experiment name ###
 
-(Setting the Tone with A Piezo Buzzer)
+Setting the Tone with A Piezo Buzzer
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](Experiment1.jpg)
 
-(Insert a caption here)
+Buzzer playing melody "dadadum"
 
 #### Reflection ####
 
@@ -25,14 +25,14 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Using A Transistor to Drive A Motor)
+Using A Transistor to Drive A Motor
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment2.jpg)
 
-(Insert a caption here)
+Fan at max speed climbing down to a stop 
 
 #### Reflection ####
 
@@ -42,14 +42,14 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Dimming an LED Using A Potentiometer)
+Dimming an LED Using A Potentiometer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment3.jpg)
 
-(Insert a caption here)
+LED dimmed to low brightness 
 
 #### Reflection ####
 
@@ -59,14 +59,14 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Using the Accelerometer to Control Motor Speed)
+Using the Accelerometer to Control Motor Speed
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment4.jpg)
 
-(Insert a caption here)
+Micro:bit tilted on tissue box to activate fan movement
 
 #### Reflection ####
 
@@ -76,14 +76,14 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Say "Hello" to the BBC Micro:bit!)
+Say "Hello" to the BBC Micro:bit!
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment5.jpg)
 
-(Insert a caption here)
+LED grid outputting a smiley face 
 
 #### Reflection ####
 
