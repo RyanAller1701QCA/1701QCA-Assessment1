@@ -33,7 +33,7 @@ Reaction Time
 
 (https://makecode.microbit.org/projects/reaction-time)
 
-![Image](Relatedproject3jpg
+![Image](Relatedproject3.jpg)
 
 This project is related to mine because it utilizes human connection to complete an action.
 
@@ -60,7 +60,7 @@ Speakers with the Micro:bit
 
 (https://www.youtube.com/watch?v=cxfPNc4Wefo)
 
-![Image](Relatedproject6jpg
+![Image](Relatedproject6.jpg)
 
 This project is related to mine because it utilizes headphones and creates sound
 
