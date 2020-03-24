@@ -121,11 +121,11 @@ This project is related to mine because it utilizes headphones and creates sound
 
 *Complete the following information.*
 
-### Project title ###
+### Banana Keyboard ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*This project is a Banana Keyboard device that playes a tune depending on what friut is touched with a hand. This project can either be for muscisions or people looking to learn code and electronics through sound experiments. The Banana keyboard can be used for making music and learning electronics.*
 
 ### Showcase image ###
 
