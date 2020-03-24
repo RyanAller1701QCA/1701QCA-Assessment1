@@ -119,7 +119,7 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ## Project outcome ##
 
-### Project Name - Banana Keyboard ###
+### Project Name: ### Banana Keyboard
 
 ### Project description ###
 
