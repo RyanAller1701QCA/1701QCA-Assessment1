@@ -16,7 +16,7 @@ Buzzer playing melody "dadadum"
 
 In this experiment, something I learned was that by connecting the two wires from the connector board to the corresponding collmn that the buzzer prongs were placed in creates the circuit allowing the buzzer to make sounds.
 
-This experiment could be the basis of a real world application such as traffic light buttons for crossing roads or small battery powered door bells 
+This experiment could be the basis of a real world application such as traffic light buttons for crossing roads or small battery powered door bells. 
 
 ### Experiment name ###
 
