@@ -116,7 +116,8 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ## Project outcome ##
 
-### Project Name: Banana Keyboard ### 
+### Project Name ###
+*Banana Keyboard*
 ### Project description ###
 
 *This project is a Banana Keyboard device that playes a tune depending on what friut is touched with a hand. This project can either be for muscisions or people looking to learn code and electronics through sound experiments. The Banana keyboard can be used for making music and learning electronics.*
