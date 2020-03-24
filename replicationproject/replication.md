@@ -15,7 +15,7 @@ Stopwatch
 
 (https://makecode.microbit.org/projects/stopwatch)
 
-![Image](Related project 1.jpg)
+![Image](Relatedproject1.jpg)
 
 This project is related to mine because (insert reasons here).
 
@@ -24,7 +24,7 @@ Snap the Dot
 
 (https://makecode.microbit.org/projects/snap-the-dot)
 
-![Image](Related project 2.jpg)
+![Image](Relatedproject2.jpg)
 
 This project is related to mine because (insert reasons here).
 
@@ -42,7 +42,7 @@ Love Meter
 
 (https://makecode.microbit.org/projects/love-meter)
 
-![Image](Related project 4.jpg)
+![Image](Relatedproject4.jpg)
 
 This project is related to mine because (insert reasons here).
 
@@ -51,7 +51,7 @@ Smiley Buttons
 
 (https://makecode.microbit.org/projects/smiley-buttons)
 
-![Image](Related project 5.jpg)
+![Image](Relatedproject5.jpg)
 
 This project is related to mine because (insert reasons here).
 
