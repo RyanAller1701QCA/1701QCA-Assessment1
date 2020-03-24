@@ -8,12 +8,12 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Setting the Tone with A Piezo Buzzer)
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Experiment1.jpg)
 
 (Insert a caption here)
 
@@ -25,12 +25,12 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Using A Transistor to Drive A Motor)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment2.jpg)
 
 (Insert a caption here)
 
@@ -42,12 +42,12 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Dimming an LED Using A Potentiometer)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment3.jpg)
 
 (Insert a caption here)
 
@@ -59,12 +59,12 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Using the Accelerometer to Control Motor Speed)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment4.jpg)
 
 (Insert a caption here)
 
@@ -76,12 +76,12 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Say "Hello" to the BBC Micro:bit!)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment5.jpg)
 
 (Insert a caption here)
 
