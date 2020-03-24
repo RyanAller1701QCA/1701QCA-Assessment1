@@ -56,7 +56,7 @@ Using the Accelerometer to Control Motor Speed
 
 #### Photo of completed project ####
 
-![Image](Experiment4.jpg)
+![Image](Experiment5.jpg)
 
 Micro:bit tilted on tissue box to activate fan movement
 
