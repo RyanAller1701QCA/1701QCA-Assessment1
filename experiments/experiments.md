@@ -2,16 +2,11 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### Experiment name ###
 
 Setting the Tone with A Piezo Buzzer
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](Experiment1.jpg)
 
@@ -28,7 +23,6 @@ This experiment could be the basis of a real world application such as (insert s
 Using A Transistor to Drive A Motor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment2.jpg)
 
@@ -45,7 +39,6 @@ This experiment could be the basis of a real world application such as (insert s
 Dimming an LED Using A Potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment3.jpg)
 
@@ -62,7 +55,6 @@ This experiment could be the basis of a real world application such as (insert s
 Using the Accelerometer to Control Motor Speed
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment4.jpg)
 
@@ -79,7 +71,6 @@ This experiment could be the basis of a real world application such as (insert s
 Say "Hello" to the BBC Micro:bit!
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment5.jpg)
 
