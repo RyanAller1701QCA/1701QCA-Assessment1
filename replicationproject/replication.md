@@ -11,9 +11,54 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Stopwatch)
 
-(Insert URL to project)
+(https://makecode.microbit.org/projects/stopwatch)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 2 ###
+(Snap the Dot)
+
+(https://makecode.microbit.org/projects/snap-the-dot)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 3 ###
+(Reaction Time)
+
+(https://makecode.microbit.org/projects/reaction-time)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 4 ###
+(Love Meter)
+
+(https://makecode.microbit.org/projects/love-meter)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 5 ###
+(Smiley Buttons)
+
+(https://makecode.microbit.org/projects/smiley-buttons)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 6 ###
+(Speakers with the Micro:bit)
+
+(https://www.youtube.com/watch?v=cxfPNc4Wefo)
 
 ![Image](missingimage.png)
 
