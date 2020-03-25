@@ -108,8 +108,6 @@ The steps that were taken to complete this project consisted of: working out mat
 
 ![Image](code.JPG)
 
-![Image](missingimage.png)
-
 ## Project outcome ##
 
 ### Project Name ###
