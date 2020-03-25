@@ -1,7 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
@@ -100,7 +98,7 @@ This project is related to mine because it utilizes headphones and creates sound
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart1.jpg)
 
 ## Process documentation
 
