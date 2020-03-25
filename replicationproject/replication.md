@@ -102,11 +102,7 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+The steps that were taken to complete this project consisted of: working out materials, planning through a diagram then moking up the code to later making changes to through the different iterations. First the materials were sourced and gathered, then the flow chart and diagram were made. The circut was then put together and tested through code and hardware.   
 
 ![Image](diagram1.JPG)
 
@@ -124,13 +120,9 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
 ![Image](missingimage.png)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](missingimage.png)
 
