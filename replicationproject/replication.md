@@ -110,7 +110,7 @@ This project is related to mine because it utilizes headphones and creates sound
 
 ![Image](diagram1.JPG)
 
-![Image](missingimage.png)
+![Image](code.JPG)
 
 ![Image](missingimage.png)
 
