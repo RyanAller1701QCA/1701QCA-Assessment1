@@ -118,21 +118,18 @@ The steps that were taken to complete this project consisted of: working out mat
 
 ### Showcase image ###
 
-![Image](missingimage.png)
+![Image](view1.jpg)
 
 ### Additional view ###
 
-![Image](missingimage.png)
+![Image](view2.jpg)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+*The parts that were successful in the project were the final outcome, the code and LEDs used. Parts that could be improved consisted of the whole circut itself, additional functions could have been added for extra usability such as a volumne knob or buttons to play different sounds.*
 
+*I found that the Micro:bit projects page helped alot with finding projects and learning the code of said projects to implement into my own.* 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+*I mainly viewed ideas from YouTube to help spur some creativity in the project, by taking what other people have done and implementing my own iteration of it into the project.* 
 
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+*An interesting extention would be adding various conrols to the circut such as a volume knob or different buttons to change the outcome.* 
